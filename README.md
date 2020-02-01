@@ -9,4 +9,4 @@ To execute tidying you should do following steps:
 prepareTidyDS, getlabels, getvarnames
 3. Run prepareTidyDS(). Result file "tidyDS.txt" will be created in the catalog "UCI HAR Dataset"
         
-All the transformations are explained in the "CodeBook.md"
+All the transformations are explained in the file "CodeBook.md"
