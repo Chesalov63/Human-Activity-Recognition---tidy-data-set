@@ -1,7 +1,6 @@
 # Human Activity Recognition - tidy data set
 
-This is a project aimed at creating tidy data set from [UCI Human Activity Recognition Using Smartphones Data Set]
-(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This is a project aimed at creating tidy data set from UCI Human Activity Recognition Using Smartphones Data Set available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 To execute tidying you should do following steps:
 1. Extract catalog "UCI HAR Dataset" in your working directory
